@@ -2,10 +2,6 @@
 import numpy as np
 import cv2
 
-#download the fascading here those who you want  like eye ,nose,forhead etc
-#here i used eye and facial detection
-# multiple cascades: https://github.com/Itseez/opencv/tree/master/data/haarcascades
-
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
 
