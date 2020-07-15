@@ -1,0 +1,5 @@
+numpy
+open cv2
+cascade file those i have provide in my repository  
+haarcasecade _frontal_face default .xml
+haarcasecade _eye.xml 
